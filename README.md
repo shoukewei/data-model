@@ -63,7 +63,7 @@ data-model/
 - scikit-learn
 - statsmodels
 - matplotlib, seaborn
-- 
+  
 ### 📌 Goal
 
 To provide a practical, structured, and reproducible approach to data modeling and forecasting—helping readers move from raw data to actionable insights and reliable predictions.
