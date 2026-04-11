@@ -62,8 +62,25 @@ data-model/
 - pandas, numpy
 - scikit-learn
 - statsmodels
-- matplotlib, seaborn
+- matplotlib
+- seaborn
   
 ### 📌 Goal
 
 To provide a practical, structured, and reproducible approach to data modeling and forecasting—helping readers move from raw data to actionable insights and reliable predictions.
+
+## 📄 License
+
+### 💻 Code
+This repository’s code is licensed under the MIT License.
+
+### 📚 Content
+All book content (text, figures, and documentation) is licensed under:
+
+CC BY-NC-ND 4.0  
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+### ⚠️ Note
+The license for each file depends on its type:
+- Code → MIT
+- Written content → CC BY-NC-ND
