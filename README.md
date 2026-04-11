@@ -29,7 +29,8 @@ Modern approaches to time series modeling
 ✔️ Clear explanations connecting theory to practice
 ✔️ Visualization and diagnostic tools
 🗂️ Repository Structure (suggested)
-practical-data-modeling-forecasting/
+```
+data-model/
 │
 ├── data/                # Raw and processed datasets
 ├── notebooks/           # Jupyter notebooks by chapter
@@ -39,6 +40,7 @@ practical-data-modeling-forecasting/
 ├── utils/               # Helper functions
 ├── requirements.txt     # Dependencies
 └── README.md            # Project overview
+```
 🎯 Who This Is For
 Data scientists and analysts
 Students in statistics, data science, or machine learning
