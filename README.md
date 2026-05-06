@@ -1,86 +1,148 @@
-# 📘 Practical Data Modeling and Forecasting with Python
+# 📘 Practical Data Modeling and Machine Learning with Python
 
-Statistical Modeling · Machine Learning · Time Series Forecasting
+## From Data Preparation to Model Evaluation and Optimization
 
-This repository accompanies the book Practical Data Modeling and Forecasting with Python, providing a comprehensive, hands-on approach to modern data analysis and predictive modeling.
+This repository accompanies the book *Practical Data Modeling and Machine Learning with Python*, providing a structured and practical approach to data preparation, statistical modeling, machine learning, and model evaluation using Python.
 
-It bridges the gap between classical statistical methods and modern machine learning techniques, with a strong emphasis on practical implementation, interpretability, and real-world applications.
+The repository is designed to bridge foundational statistical methods and modern machine learning workflows, with a strong emphasis on reproducibility, interpretability, and practical problem solving.
 
-## 🚀 What This Repository Covers
+---
 
-### 📊 Statistical Modeling
+# 🚀 What This Repository Covers
 
-- Linear and nonlinear regression
-- Generalized linear models (GLMs)
-- Model diagnostics and assumptions
-- Feature selection and regularization
-  
-### 🤖 Machine Learning
+## 📦 Data Preparation and Feature Engineering
 
-- Supervised learning (regression & classification)
-- Model evaluation and cross-validation
-- Ensemble methods
-- Feature engineering and pipelines
+* Data cleaning and preprocessing
+* Handling missing values and outliers
+* Feature transformation and encoding
+* Feature engineering workflows
+* Scaling and normalization techniques
 
-###⏳ Time Series Forecasting
+---
 
-- ARIMA, SARIMA, and exponential smoothing
-- Seasonality and trend decomposition
-- Forecast evaluation and uncertainty
-- Modern approaches to time series modeling
+## 📊 Statistical Modeling
 
-### 🧠 Key Features
+* Linear regression
+* Multiple regression
+* Generalized linear models (GLMs)
+* Regularization methods
+* Model diagnostics and assumptions
+
+---
+
+## 🤖 Machine Learning
+
+* Supervised learning workflows
+* Classification and regression models
+* Decision trees and ensemble methods
+* Bias–variance tradeoff
+* Training, validation, and testing strategies
+
+---
+
+## 📈 Model Evaluation and Optimization
+
+* Regression and classification metrics
+* Cross-validation techniques
+* Hyperparameter tuning
+* Grid search and random search
+* Model interpretation and explainability
+
+---
+
+# 🧠 Key Features
+
 ✔️ End-to-end modeling workflows
-✔️ Reproducible Python code (using pandas, scikit-learn, statsmodels)
-✔️ Real-world datasets and case studies
-✔️ Clear explanations connecting theory to practice
-✔️ Visualization and diagnostic tools
+✔️ Reproducible Python examples
+✔️ Practical machine learning pipelines
+✔️ Clear explanations connecting theory and implementation
+✔️ Real-world datasets and modeling examples
+✔️ Evaluation and optimization techniques for reliable models
 
-### 🗂️ Repository Structure (suggested)
-```
+---
+
+# 🗂️ Repository Structure
+
+```text
 data-model/
 │
 ├── data/                # Raw and processed datasets
-├── notebooks/           # Jupyter notebooks by chapter
+├── notebooks/           # Jupyter notebooks organized by chapter
 ├── src/                 # Reusable Python modules
 ├── figures/             # Generated plots and visualizations
-├── experiments/         # Model experiments and comparisons
-├── utils/               # Helper functions
-├── requirements.txt     # Dependencies
-└── README.md            # Project overview
+├── experiments/         # Modeling experiments and comparisons
+├── utils/               # Helper functions and utilities
+├── requirements.txt     # Project dependencies
+├── config.py            # Shared project configuration
+└── README.md            # Repository overview
 ```
-### 🎯 Who This Is For
 
-- Data scientists and analysts
-- Students in statistics, data science, or machine learning
-- Researchers and practitioners working with predictive modeling
-- Anyone who wants to build reliable forecasting models in Python
+---
 
-### ⚙️ Technologies Used
+# 🌐 Companion Resources
 
-- Python (3.9+)
-- pandas, numpy
-- scikit-learn
-- statsmodels
-- matplotlib
-- seaborn
-  
-### 📌 Goal
+All datasets, notebooks, scripts, and environment configuration files for this book are available at:
 
-To provide a practical, structured, and reproducible approach to data modeling and forecasting—helping readers move from raw data to actionable insights and reliable predictions.
+🔹 Official resource hub
+https://press.deepsim.ca/data-model
 
-## 📄 License
+🔹 GitHub repository
+https://github.com/shoukewei/data-model
 
-### 💻 Code
+The GitHub repository provides version-controlled code, issue tracking, and updates aligned with the book.
+
+---
+
+# 🎯 Who This Repository Is For
+
+* Data scientists and analysts
+* Students in statistics, machine learning, and data science
+* Researchers working with predictive modeling
+* Python users transitioning into machine learning
+* Readers seeking practical and reproducible modeling workflows
+
+---
+
+# ⚙️ Technologies Used
+
+* Python (3.9+)
+* pandas
+* numpy
+* scikit-learn
+* statsmodels
+* matplotlib
+* seaborn
+* jupyter
+
+---
+
+# 📌 Goal
+
+The goal of this repository is to provide a practical, structured, and reproducible framework for data modeling and machine learning with Python—helping readers move from raw data to reliable and interpretable predictive models.
+
+---
+
+# 📄 License
+
+## 💻 Code
+
 This repository’s code is licensed under the MIT License.
 
-### 📚 Content
+---
+
+## 📚 Content
+
 All book content (text, figures, and documentation) is licensed under:
 
-CC BY-NC-ND 4.0  
+CC BY-NC-ND 4.0
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-### ⚠️ Note
+---
+
+## ⚠️ Note
+
 The license for each file depends on its type:
-- Code → MIT
-- Written content → CC BY-NC-ND
+
+* Code → MIT
+* Written content → CC BY-NC-ND
+
