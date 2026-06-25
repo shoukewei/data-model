@@ -1,8 +1,11 @@
+
 # 📘 Practical Data Modeling and Machine Learning with Python
 
 ## From Data Preparation to Model Evaluation and Optimization
 
 This repository accompanies the book *Practical Data Modeling and Machine Learning with Python*, providing a structured and practical approach to data preparation, statistical modeling, machine learning, and model evaluation using Python.
+
+<img width="715" height="1024" alt="data-model-cover-front" src="https://github.com/user-attachments/assets/cc78b921-f35a-43cb-a423-230f17685af8" />
 
 The repository is designed to bridge foundational statistical methods and modern machine learning workflows, with a strong emphasis on reproducibility, interpretability, and practical problem solving.
 
